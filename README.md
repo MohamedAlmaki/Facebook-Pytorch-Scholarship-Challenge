@@ -1,4 +1,4 @@
-# Pytorch-Challenge-Scholarship-lab
+# Lab-Challenge
 This is my implementation for Udacity Pytorch Challenge Scholarship Project. 
 It is an image classifier that classifies flower images. 
 The used dataset is Oxford's 102 flower dataset. 
